@@ -1,0 +1,9 @@
+.
+./controller
+./controller/controller.go
+./directory_structure.txt
+./main.go
+./model
+./model/model.go
+./view
+./view/view.go
